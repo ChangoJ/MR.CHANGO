@@ -55,7 +55,7 @@ Con experiencia sólida en desarrollo backend y frontend, me apasiona crear solu
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jordan-chango" target="blank">
+  <a href="https://www.linkedin.com/in/jordan-chango-3352a6187" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
   <a href="mailto:jordanchango25000@gmail.com" target="blank">
