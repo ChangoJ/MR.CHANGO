@@ -69,14 +69,6 @@ Con experiencia sólida en desarrollo backend y frontend, me apasiona crear solu
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordanchango&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Jordan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanchango&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
-</p>
 
 <!--profile visit count-->
 <div align="center">
