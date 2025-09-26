@@ -8,12 +8,6 @@
 
 Con experiencia sólida en desarrollo backend y frontend, me apasiona crear soluciones robustas que generen valor real para organizaciones y usuarios.
 
-### 🚀 ¿En qué estoy trabajando actualmente?
-- 🔭 Desarrollando APIs RESTful y microservicios con **NestJS** y **TypeScript**
-- 🎮 Creando el videojuego educativo "Michimoney" con **Unity** y **C#**
-- ☁️ Implementando soluciones cloud con **AWS** y **Docker**
-- 🏗️ Aplicando arquitecturas avanzadas: **CQRS**, **Puertos y Adaptadores**, **Microservicios**
-
 ### 💡 Mi expertise incluye:
 - **Backend:** NestJS, Spring Boot, .NET Core, APIs RESTful, Microservicios
 - **Frontend:** React (Redux, Tailwind), Angular, Flutter, Unity
@@ -84,4 +78,4 @@ Con experiencia sólida en desarrollo backend y frontend, me apasiona crear solu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
-**Última actualización:** Septiembre 2025 | **Experiencia actual:** Kotka Software Development S.A.S
+**Última actualización:** Septiembre 2025 
