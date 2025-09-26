@@ -4,9 +4,7 @@
 <!-- Intro start -->
 ## 👋 ¡Hola! Soy Jordan Chango
 
-**Ingeniero de Software Full Stack** especializado en arquitecturas escalables y tecnologías modernas.
-
-Con experiencia sólida en desarrollo backend y frontend, me apasiona crear soluciones robustas que generen valor real para organizaciones y usuarios.
+**Software Engineer | Backend Developer | Frontend Developer | Agile Methodologies | Clean Architecture | Clean Code**
 
 ### 💡 Mi expertise incluye:
 - **Backend:** NestJS, Spring Boot, .NET Core, APIs RESTful, Microservicios
@@ -18,8 +16,6 @@ Con experiencia sólida en desarrollo backend y frontend, me apasiona crear solu
 ### 📫 ¿Quieres contactarme?
 - 📧 **jordanchango25000@gmail.com**
 - 🌍 **Quito, Ecuador**
-- 💬 Pregúntame sobre **NestJS, React, Unity, AWS, o arquitecturas de software**
-
 ---
 
 <!--h1 without bottom border-->
